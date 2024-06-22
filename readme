@@ -1,0 +1,5 @@
+Please put navbar in header section of the html file where you can use div containers and dont use class and id always try to do work without it.
+
+I am making myself a portfolio website using Html and CSS only and I dont want to use Bootstrap as it not give me complete control over my site.
+
+Step 1 ) Try to make margin and pading 0 first before doing anything with help of universal selector.
